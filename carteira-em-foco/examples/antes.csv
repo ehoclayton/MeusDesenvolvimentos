@@ -1,0 +1,5 @@
+id,cliente,valor,vencimento,status
+AF-101,Empresa Aurora,12500.00,2026-09-18,a_faturar
+AF-102,Empresa Boreal,7400.00,2026-09-20,a_faturar
+AF-103,Empresa Cedro,3000.00,2026-10-10,emitido
+AF-104,Empresa Duna,2100.00,2026-09-12,a_faturar
