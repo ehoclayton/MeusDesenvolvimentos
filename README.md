@@ -1,5 +1,11 @@
-# MeusDesenvolvimentos
-Conheça todos os meus projetos em um unico lugar de forma organizada
+# Meus Desenvolvimentos
+
+Projetos e estudos de programação, dados e automação.
+
+## Projetos
+
+- [Carteira em Foco](carteira-em-foco/): comparação de snapshots CSV de uma carteira de faturamento, com alertas de mudanças de vencimento e relatório. Dados fictícios.
+
 
 # @ehoclayton's TCC Impacta
 
